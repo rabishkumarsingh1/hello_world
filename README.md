@@ -1,2 +1,4 @@
 # hello_world
-Just another repository
+
+Hello dear Humans.
+I just started to learn basic working og GitHub
